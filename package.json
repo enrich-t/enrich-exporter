@@ -2,8 +2,8 @@
   "name": "enrich-exporter",
   "private": true,
   "version": "1.0.0",
+  "type": "module",
   "license": "MIT",
-  "scripts": { "dev": "vercel dev" },
   "dependencies": {
     "@sparticuz/chromium": "^138.0.2",
     "@supabase/supabase-js": "^2.45.2",
