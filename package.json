@@ -1,0 +1,14 @@
+{
+  "name": "enrich-exporter",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^124.0.0",
+    "@supabase/supabase-js": "^2.45.2",
+    "puppeteer-core": "^22.10.0"
+  }
+}
